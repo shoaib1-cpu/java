@@ -1,4 +1,4 @@
-# java_dev
+# java
 
 
 ### **1. Core Java Projects**
