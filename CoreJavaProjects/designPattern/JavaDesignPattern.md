@@ -1,6 +1,4 @@
-Design patterns are essential for showcasing your architectural knowledge and coding practices. Here's how you can approach including **Design Patterns** in your GitHub profile:
 
----
 
 ### **Design Pattern Projects**
 Create individual repositories or a single repository with subfolders for different design patterns. Document each pattern with examples and use cases.
@@ -145,6 +143,3 @@ Create individual repositories or a single repository with subfolders for differ
 5. **Interactive Features**:  
    - Include a Java console app for pattern demonstrations.
 
----
-
-By including detailed examples, documentation, and demos of these patterns, you can showcase your in-depth understanding of software architecture, making your profile highly attractive to recruiters.
