@@ -1,8 +1,3 @@
-
-To build a GitHub repository for **Data Structures and Algorithms in Java**, follow a structured approach that showcases your skills and expertise effectively. Here's a detailed breakdown of what to include:
-
----
-
 ### **1. Repository Name**
 Choose a professional and descriptive name for the repository, such as:  
 - `data-structures-and-algorithms-java`  
